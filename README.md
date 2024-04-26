@@ -1,7 +1,5 @@
-# header1
+# Kuvaus
 
-moi
+Tämä on minun nettisivusto, jossa kokeilen eri teknologioita:
 
-## header2
-
-moi
+- kimalluseffektin harjoitus [tässä](./kimallus/index.html)
